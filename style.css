@@ -1,15 +1,15 @@
 body {
-    justify-content: space-around;
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    text-align: center;
+    justify-content: space-around !important;
+    min-height: 100vh !important;
+    display: flex !important;
+    align-items: center !important;
+    text-align: center !important;
 }
 
 h1 {
     color: #003300;
     font-size: 100px;
-    margin: 0;
+    text-align: center !important;
 }
 
 a,p {
